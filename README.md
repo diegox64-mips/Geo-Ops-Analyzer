@@ -8,6 +8,7 @@ Como um apaixonado por automação, desenvolvi esta suíte para resolver problem
 
 Se você lida com ordens de serviço (OS) e busca uma ideia, este projeto pode oferecer alguns insights valiosos!
 
+
 O Que Esta Ferramenta Faz de Tão Incrível? ✨
 
 Trabalhar com toneladas de dados de serviços pode ser um pesadelo: OS pendentes, agendamentos espalhados por cidades, relatórios que demoram uma eternidade... Mas, como sou apaixonado por resolver problemas, criei uma solução simples:
@@ -22,6 +23,7 @@ Esta ferramenta não só resolveu os maiores gargalos do meu dia a dia, como tam
 
 Automatizei tarefas chatas, trouxe insights visuais que mudam o jogo e liberei tempo para focar no que realmente importa. Isso é Python resolvendo problemas reais.
 
+
 Por Que Isso É um Divisor de Águas? 🌟
 
 No meu trabalho, lido com uma operação complexa de serviços para um cliente gigante. Antes, era um sufoco: análises manuais, mapas confusos e horas perdidas. Com esta ferramenta, eu:
@@ -35,6 +37,7 @@ No meu trabalho, lido com uma operação complexa de serviços para um cliente g
 Esta solução é feita sob medida para operações de serviços em larga escala. Ela pega dados brutos e os transforma em inteligência acionável.
 
 Resolvi problemas reais, e o resultado é uma rotina mais leve e um atendimento mais eficiente.
+
 
 Funcionalidades Estrela 🌠
 
